@@ -18,7 +18,7 @@
   &nbsp;
   <a href='https://www.youtube.com/watch?v=XzFakwy0D1Q'><img src='https://img.shields.io/static/v1?label=Youtube&message=Demo&color=yellow&logo=youtube'></a>
   &nbsp;
-  <a href="https://arxiv.org/abs/2506.03140"><img src="https://img.shields.io/static/v1?label=Arxiv&message=DynamicTree&color=red&logo=arxiv"></a>
+  <a href="xxx"><img src="https://img.shields.io/static/v1?label=Arxiv&message=DynamicTree&color=red&logo=arxiv"></a>
   &nbsp;
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data(comming soon)-orange'></a>
 </p>
@@ -43,7 +43,7 @@ If you find our work helpful, please consider citing:
 @article{xxx,
     title={DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum},
     author={Li, Yaokun and Ding, Lihe and Chen, Xiao and Guang, Tan and Xue, Tianfan},
-    journal={arXiv preprint arXiv:2507.05163},
+    journal={xxx},
     year={2025}
 }
 ```
