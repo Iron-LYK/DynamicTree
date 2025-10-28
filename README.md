@@ -18,7 +18,7 @@
   &nbsp;
   <a href='https://www.youtube.com/watch?v=XzFakwy0D1Q'><img src='https://img.shields.io/static/v1?label=Youtube&message=Demo&color=yellow&logo=youtube'></a>
   &nbsp;
-  <a href="xxx"><img src="https://img.shields.io/static/v1?label=Arxiv&message=DynamicTree&color=red&logo=arxiv"></a>
+  <a href="https://arxiv.org/abs/2510.22213"><img src="https://img.shields.io/static/v1?label=Arxiv&message=DynamicTree&color=red&logo=arxiv"></a>
   &nbsp;
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data(comming soon)-orange'></a>
 </p>
@@ -40,10 +40,13 @@ Generating dynamic and interactive 3D objects, such as trees, has wide applicati
 ## 🔗 Citation
 If you find our work helpful, please consider citing:
 ```
-@article{xxx,
-    title={DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum},
-    author={Li, Yaokun and Ding, Lihe and Chen, Xiao and Guang, Tan and Xue, Tianfan},
-    journal={xxx},
-    year={2025}
+@misc{li2025dynamictree,
+      title={DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum}, 
+      author={Yaokun Li and Lihe Ding and Xiao Chen and Guang Tan and Tianfan Xue},
+      year={2025},
+      eprint={2510.22213},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.22213}, 
 }
 ```
