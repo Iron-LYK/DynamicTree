@@ -32,7 +32,7 @@ Generating dynamic and interactive 3D objects, such as trees, has wide applicati
 </div>
 
 ## TODO List
-
+Code and dataset will be made public as soon as possible.
 - [ ] Release Training and Inference code.
 - [ ] Release Dataset.
 
