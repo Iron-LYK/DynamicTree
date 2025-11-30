@@ -5,11 +5,12 @@
     <a href="https://dinglihe.github.io/">Lihe Ding</a><sup>2</sup>
     <a href="https://xiao-chen.tech/">Xiao Chen</a><sup>2</sup>
     <a href="https://ise.sysu.edu.cn/teacher/TanGuang">Guang Tan</a><sup>1</sup>
-    <a href="https://tianfan.info/">Tianfan Xue</a><sup>2</sup>
+    <a href="https://tianfan.info/">Tianfan Xue</a><sup>2,3</sup>
   </p>
   <p>
     <sup>1</sup>Sun Yat-sen University &nbsp;&nbsp;
-    <sup>2</sup>The Chinese University of Hong Kong<br>
+    <sup>2</sup>CUHK MMLab<br>
+    <sup>3</sup>CPII under InnoHK<br>
   </p>
 </div>
  
