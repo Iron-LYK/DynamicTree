@@ -41,13 +41,10 @@ Code and dataset will be made public as soon as possible.
 ## 🔗 Citation
 If you find our work helpful, please consider citing:
 ```
-@misc{li2025dynamictree,
-      title={DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum}, 
-      author={Yaokun Li and Lihe Ding and Xiao Chen and Guang Tan and Tianfan Xue},
-      year={2025},
-      eprint={2510.22213},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.22213}, 
+@article{li2025dynamictree,
+  title={DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum},
+  author={Li, Yaokun and Ding, Lihe and Chen, Xiao and Tan, Guang and Xue, Tianfan},
+  journal={arXiv preprint arXiv:2510.22213},
+  year={2025}
 }
 ```
