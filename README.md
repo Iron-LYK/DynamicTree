@@ -17,7 +17,7 @@
 <p align="center">
   <a href='https://dynamictree-dev.github.io/DynamicTree.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
-  <a href='https://www.youtube.com/watch?v=XzFakwy0D1Q'><img src='https://img.shields.io/static/v1?label=Youtube&message=Demo&color=yellow&logo=youtube'></a>
+  <a href='https://www.youtube.com/watch?v=7cAHxJcXqbI&t=16s'><img src='https://img.shields.io/static/v1?label=Youtube&message=Demo&color=yellow&logo=youtube'></a>
   &nbsp;
   <a href="https://arxiv.org/abs/2510.22213"><img src="https://img.shields.io/static/v1?label=Arxiv&message=DynamicTree&color=red&logo=arxiv"></a>
   &nbsp;
